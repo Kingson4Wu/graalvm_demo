@@ -27,5 +27,6 @@ ll -lh
 total 153696
 -rwxr-xr-x@ 1 kingsonwu  staff    75M Oct 22 17:24 app
  ./app
-</pre> 
+org.kxw.graalvm.App                      : Started App in 0.051 seconds (process running for 0.076)
+</pre>
 
